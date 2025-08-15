@@ -1,0 +1,501 @@
+﻿ID_Cliente;Idade;Estado;Perfil;Fundo;Classe_Ativo;Posicao_Atual;Data_Inicio;Rentabilidade_12M;Aportes_12M;Resgates_12M;Ativo
+1;58;RJ;Conservador;Fundo Multimercado Gamma;Multimercado;68.995,31;23/07/2025;9,03;23.968,01;23.240,73;Sim
+2;77;MG;Moderado;Fundo Imobiliário Sigma;Imobiliário;131.161,65;30/03/2022;14,04;31.729,60;19.344,12;Sim
+3;40;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;109.247,56;25/11/2021;11,08;6.127,63;28.441,96;Sim
+4;47;DF;Moderado;Fundo Imobiliário Sigma;Imobiliário;128.883,16;12/04/2021;6,93;40.501,08;25.330,02;Sim
+5;76;DF;Moderado;Fundo Cambial Delta;Cambial;124.888,77;10/05/2023;7,94;29.970,13;36.810,21;Sim
+6;72;SP;Arrojado;Fundo Ações Beta;Ações;105.055,41;16/11/2024;7,77;41.484,73;37.618,77;Sim
+7;27;SC;Conservador;Fundo Ações Beta;Ações;96.450,90;21/05/2022;5,56;30.949,78;388,99;Não
+8;61;SC;Conservador;Fundo Cambial Delta;Cambial;70.770,69;11/12/2020;8,13;19.983,62;22.652,94;Sim
+9;29;SC;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;128.745,53;08/12/2022;13,53;25.632,14;5.364,90;Sim
+10;37;DF;Conservador;Fundo Cambial Delta;Cambial;126.814,93;04/10/2024;10,14;39.267,18;30.677,83;Sim
+11;64;PR;Arrojado;Fundo Imobiliário Sigma;Imobiliário;169.445,04;14/06/2024;10,92;39.363,40;44.253,56;Não
+12;43;SC;Moderado;Fundo Renda Fixa Alpha;;157.223,38;28/03/2025;12,71;58.148,13;34.174,11;Sim
+13;77;RS;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;59.510,80;28/10/2023;22,80;16.795,54;9.459,94;Não
+14;43;RJ;Conservador;Fundo Cambial Delta;Cambial;99.000,11;25/07/2021;11,45;34.233,10;3.125,56;Sim
+15;54;SC;Conservador;Fundo Multimercado Gamma;Multimercado;87.232,72;01/08/2022;6,71;29.322,37;30.863,26;Sim
+16;33;PR;Moderado;Fundo Renda Fixa Alpha;;254.891,85;08/03/2024;6,32;66.306,59;49.426,99;Sim
+17;32;MG;Moderado;Fundo Ações Beta;Ações;126.019,56;04/11/2020;9,55;70.993,47;12.285,76;Sim
+18;23;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;75.606,56;04/10/2020;8,71;33.855,82;11.202,85;Sim
+19;55;SC;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;158.145,23;20/06/2025;18,86;58.592,51;37.336,88;Sim
+20;61;SP;Arrojado;Fundo Cambial Delta;Cambial;180.086,90;25/12/2020;23,27;58.656,41;41.681,35;Sim
+21;63;RS;Arrojado;Fundo Imobiliário Sigma;Imobiliário;207.758,48;09/03/2023;12,32;46.246,15;34.077,00;Não
+22;44;SC;Conservador;Fundo Cambial Delta;Cambial;65.958,94;02/08/2024;7,34;17.201,38;3.538,60;Sim
+23;71;PE;Conservador;Fundo Ações Beta;Ações;53.012,20;01/02/2023;5,96;34.233,69;3.978,86;Sim
+24;56;DF;Moderado;Fundo Imobiliário Sigma;Imobiliário;76.149,37;13/06/2024;13,66;17.772,80;11.317,41;Sim
+25;51;GO;Conservador;Fundo Ações Beta;Ações;117.723,72;05/04/2021;8,35;38.349,10;22.668,34;Não
+26;71;MG;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;152.714,94;23/06/2022;5,78;34.233,69;37.528,41;Sim
+27;75;RJ;Conservador;Fundo Ações Beta;;82.046,95;23/09/2020;7,13;19.205,70;16.441,69;Sim
+28;56;BA;Moderado;Fundo Cambial Delta;Cambial;169.480,64;12/02/2025;4,29;56.573,02;67.361,29;Sim
+29;45;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;165.712,91;14/09/2023;13,01;62.822,29;18.072,86;Não
+30;43;SP;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;134.246,39;18/07/2024;9,91;56.625,80;21.620,94;Sim
+31;35;DF;Arrojado;Fundo Multimercado Gamma;Multimercado;120.394,05;09/08/2023;21,39;56.664,72;34.596,31;Sim
+32;38;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;97.750,23;19/11/2024;9,21;22.284,14;16.911,44;Não
+33;60;PR;Arrojado;Fundo Ações Beta;Ações;94.834,55;21/01/2024;26,40;21.022,42;15.912,65;Sim
+34;42;RJ;Arrojado;Fundo Multimercado Gamma;Multimercado;262.339,15;14/04/2022;17,17;62.289,38;38.761,62;Sim
+35;67;DF;Moderado;Fundo Ações Beta;Ações;174.555,46;22/03/2023;20,16;46.702,47;31.317,58;Sim
+36;31;MG;Moderado;Fundo Imobiliário Sigma;Imobiliário;160.019,42;03/11/2021;10,61;38.382,30;18.456,41;Não
+37;38;GO;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;90.438,83;28/07/2023;8,59;29.397,08;21.221,00;Sim
+38;43;SC;Arrojado;Fundo Multimercado Gamma;Multimercado;189.182,90;16/03/2022;22,82;21.759,76;59.945,08;Sim
+39;44;RS;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;160.489,98;11/01/2024;4,27;64.987,97;53.364,61;Sim
+40;60;PE;Arrojado;Fundo Imobiliário Sigma;Imobiliário;70.195,56;17/02/2021;13,80;30.487,11;8.882,91;Sim
+41;22;MG;Moderado;Fundo Imobiliário Sigma;Imobiliário;152.882,41;26/08/2024;17,59;42.113,17;19.053,18;Sim
+42;74;DF;Arrojado;Fundo Cambial Delta;Cambial;182.376,55;17/12/2021;2,01;54.504,26;44.013,92;Não
+43;27;DF;Arrojado;Fundo Ações Beta;Ações;222.562,92;27/10/2020;18,30;127.626,97;46.599,45;Sim
+44;52;BA;Arrojado;Fundo Multimercado Gamma;Multimercado;187.540,04;03/08/2021;7,14;36.178,49;46.556,30;Sim
+45;47;DF;Moderado;Fundo Ações Beta;Ações;48.669,96;21/06/2022;9,03;16.193,58;12.199,49;Sim
+46;56;SC;Conservador;Fundo Imobiliário Sigma;;77.517,35;05/05/2023;9,48;19.747,84;21.526,95;Sim
+47;40;RS;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;67.812,53;20/03/2023;6,37;4.624,35;11.745,01;Sim
+48;61;SP;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;160.390,86;15/05/2022;17,08;33.940,99;34.543,78;Sim
+49;51;PR;Moderado;Fundo Ações Beta;Ações;74.091,20;22/05/2024;15,56;15.890,78;7.208,62;Sim
+50;45;GO;Moderado;Fundo Ações Beta;Ações;154.897,89;22/11/2024;14,26;31.614,53;52.386,54;Sim
+51;48;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;66.661,13;11/01/2025;4,62;24.376,62;3.760,35;Sim
+52;79;SC;Moderado;Fundo Cambial Delta;Cambial;140.601,91;27/12/2020;25,41;50.207,40;44.086,65;Não
+53;65;SP;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;129.291,85;27/03/2024;10,70;23.885,82;6.454,66;Sim
+54;21;SC;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;263.372,86;11/12/2023;8,59;54.955,05;40.690,23;Sim
+55;41;RS;Moderado;Fundo Ações Beta;Ações;103.418,73;25/10/2023;10,32;21.789,08;17.221,11;Sim
+56;52;PR;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;98.348,58;19/01/2022;13,11;29.036,00;24.771,00;Sim
+57;25;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;80.911,44;20/02/2021;6,70;41.620,39;21.311,42;Sim
+58;71;RJ;Arrojado;Fundo Ações Beta;Ações;71.525,14;05/02/2022;-1,92;15.323,91;20.313,18;Sim
+59;45;PE;Moderado;Fundo Cambial Delta;;89.127,24;26/11/2020;16,65;23.759,12;14.992,57;Não
+60;53;MG;Conservador;Fundo Cambial Delta;Cambial;73.612,90;26/05/2024;7,59;24.079,23;31.247,25;Sim
+61;24;PE;Conservador;Fundo Imobiliário Sigma;Imobiliário;53.463,36;27/04/2022;11,69;12.132,22;3.849,79;Sim
+62;56;PE;Conservador;Fundo Multimercado Gamma;Multimercado;73.212,27;01/11/2022;6,37;27.081,90;19.034,43;Sim
+63;55;SP;Moderado;Fundo Imobiliário Sigma;Imobiliário;109.897,27;07/11/2021;5,01;50.908,94;6.262,59;Sim
+64;24;SC;Conservador;Fundo Imobiliário Sigma;Imobiliário;73.512,09;05/05/2021;9,05;45.482,18;15.321,12;Sim
+65;64;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;75.950,85;18/04/2025;8,12;27.700,51;16.147,87;Sim
+66;43;MG;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;94.982,11;03/08/2025;11,62;30.650,58;16.422,77;Sim
+67;62;RS;Moderado;Fundo Imobiliário Sigma;Imobiliário;113.928,60;12/11/2023;12,35;37.379,88;15.691,39;Sim
+68;36;GO;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;56.889,68;24/02/2023;11,14;10.667,09;18.670,74;Sim
+69;500;GO;Moderado;Fundo Multimercado Gamma;Multimercado;95.110,51;29/10/2022;8,58;37.587,78;32.837,38;Não
+70;48;RS;Moderado;Fundo Multimercado Gamma;Multimercado;116.396,85;26/12/2023;7,98;35.509,70;29.036,36;Sim
+71;56;BA;Conservador;Fundo Multimercado Gamma;Multimercado;94.945,87;04/02/2021;9,22;28.285,31;20.103,15;Sim
+72;37;RJ;Conservador;Fundo Imobiliário Sigma;;89.842,82;01/03/2024;4,95;28.574,44;27.591,10;Não
+73;31;RJ;Conservador;Fundo Ações Beta;Ações;111.057,20;18/01/2021;7,12;28.786,97;25.116,95;Sim
+74;36;MG;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;130.441,61;06/12/2024;40,03;18.979,27;15.095,55;Não
+75;38;SC;Conservador;Fundo Cambial Delta;Cambial;86.483,33;24/02/2023;7,74;26.783,85;22.443,78;Sim
+76;66;PR;Moderado;Fundo Imobiliário Sigma;Imobiliário;164.941,67;04/12/2023;18,57;43.831,78;37.100,57;Sim
+77;72;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;66.017,07;16/02/2023;7,98;6.007,44;24.891,28;Não
+78;42;MG;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;116.273,33;06/02/2023;8,81;35.929,30;24.216,60;Sim
+79;57;MG;Conservador;Fundo Imobiliário Sigma;Imobiliário;84.899,33;01/05/2024;6,99;21.470,72;18.949,95;Sim
+80;56;SC;Conservador;Fundo Multimercado Gamma;Multimercado;88.910,14;14/05/2023;5,08;29.250,39;16.117,41;Sim
+81;64;PR;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;110.146,35;16/02/2024;24,88;10.606,26;39.322,60;Sim
+82;45;BA;Arrojado;Fundo Renda Fixa Alpha;;106.539,97;26/03/2024;-1,01;25.844,45;5.412,50;Sim
+83;77;MG;Moderado;Fundo Multimercado Gamma;Multimercado;154.077,78;14/10/2024;13,07;54.769,92;42.112,13;Sim
+84;22;PE;Moderado;Fundo Cambial Delta;Cambial;139.707,46;18/09/2024;10,36;21.715,99;16.148,27;Sim
+85;75;RJ;Conservador;Fundo Ações Beta;Ações;28.713,16;02/04/2022;10,29;3.167,79;7.462,82;Sim
+86;35;SC;Moderado;Fundo Ações Beta;Ações;128.963,70;02/02/2025;10,05;39.948,78;15.823,72;Sim
+87;39;SP;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;65.963,73;14/04/2024;6,07;29.266,49;8.564,07;Não
+88;30;RS;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;115.562,72;31/12/2024;13,91;17.879,29;32.172,74;Sim
+89;47;DF;Arrojado;Fundo Cambial Delta;Cambial;77.452,66;25/07/2022;26,71;17.373,36;8.712,81;Não
+90;56;MG;Arrojado;Fundo Ações Beta;Ações;170.505,36;24/08/2023;29,01;67.356,84;24.264,56;Não
+91;47;MG;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;111.222,03;01/08/2023;10,77;52.104,02;2.999,49;Sim
+92;44;SC;Arrojado;Fundo Cambial Delta;;192.014,58;13/05/2024;12,94;56.190,93;32.983,86;Sim
+93;20;RS;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;86.812,31;09/01/2025;7,97;37.957,62;11.478,44;Sim
+94;44;SP;Arrojado;Fundo Ações Beta;Ações;143.127,61;17/10/2021;23,90;20.117,62;20.046,81;Sim
+95;67;PE;Conservador;Fundo Ações Beta;Ações;84.373,66;14/06/2024;7,03;39.139,76;18.775,13;Sim
+96;22;RS;Conservador;Fundo Multimercado Gamma;Multimercado;110.324,67;26/05/2024;8,62;29.643,98;4.422,66;Não
+97;65;PR;Conservador;Fundo Imobiliário Sigma;Imobiliário;63.029,59;12/10/2024;6,13;21.008,85;10.980,37;Sim
+98;59;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;49.317,72;23/07/2022;10,56;16.434,21;6.172,18;Sim
+99;53;PR;Conservador;Fundo Multimercado Gamma;;105.509,26;05/11/2024;7,82;41.539,76;15.094,93;Sim
+100;63;GO;Moderado;Fundo Multimercado Gamma;Multimercado;161.063,19;19/01/2024;10,66;31.884,34;27.878,52;Sim
+101;66;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;107.935,87;16/05/2023;7,22;44.789,32;27.256,09;Sim
+102;58;SP;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;162.336,98;26/02/2025;2,97;29.492,43;0,00;Sim
+103;53;DF;Moderado;Fundo Ações Beta;Ações;128.005,38;07/09/2021;1,32;32.171,41;42.682,70;Sim
+104;74;RJ;Arrojado;Fundo Multimercado Gamma;Multimercado;264.354,43;18/09/2020;15,82;74.160,13;90.400,57;Sim
+105;36;RJ;Moderado;Fundo Multimercado Gamma;Multimercado;51.864,70;07/10/2020;9,78;17.551,35;10.203,37;Sim
+106;72;BA;Conservador;Fundo Multimercado Gamma;Multimercado;57.038,90;26/09/2023;6,80;6.734,58;16.624,59;Sim
+107;66;RS;Moderado;Fundo Cambial Delta;Cambial;75.949,92;16/09/2022;11,95;28.461,23;12.982,18;Sim
+108;22;MG;Moderado;Fundo Multimercado Gamma;Multimercado;138.711,18;23/12/2024;10,06;22.670,06;34.734,76;Sim
+109;54;SP;Conservador;Fundo Ações Beta;Ações;69.394,85;18/12/2023;6,41;20.075,72;6.694,92;Sim
+110;45;GO;Moderado;Fundo Multimercado Gamma;Multimercado;71.260,41;27/12/2023;5,36;21.081,49;7.837,82;Sim
+111;41;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;154.054,17;29/10/2021;7,52;34.871,51;39.738,34;Sim
+112;34;MG;Moderado;Fundo Multimercado Gamma;Multimercado;151.987,65;12/06/2025;10,28;57.280,00;18.537,27;Sim
+113;33;GO;Conservador;Fundo Ações Beta;Ações;112.899,35;24/12/2024;7,50;40.379,10;26.093,86;Sim
+114;65;RS;Arrojado;Fundo Ações Beta;;128.507,45;28/12/2021;21,21;27.356,06;22.787,59;Sim
+115;74;RS;Arrojado;Fundo Imobiliário Sigma;Imobiliário;138.785,69;04/04/2025;13,62;-9.999.999.999,00;18.675,37;Sim
+116;45;RJ;Moderado;Fundo Imobiliário Sigma;Imobiliário;57.579,76;03/04/2024;10,83;15.259,88;0,00;Sim
+117;29;BA;Moderado;Fundo Ações Beta;Ações;119.681,09;29/10/2021;15,92;36.830,28;13.628,27;Sim
+118;53;SP;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;275.068,63;01/09/2021;25,13;27.298,69;84.376,10;Sim
+119;56;RS;Conservador;Fundo Imobiliário Sigma;Imobiliário;107.914,64;20/12/2020;5,38;11.721,93;31.740,77;Sim
+120;64;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;89.931,56;15/02/2024;7,61;25.124,73;0,00;Sim
+121;49;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;96.304,24;20/01/2022;6,54;29.358,56;11.258,45;Sim
+122;59;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;126.958,65;09/02/2023;13,63;37.975,99;31.122,79;Sim
+123;57;DF;Moderado;Fundo Ações Beta;Ações;10.000.000.000,00;06/09/2022;10,83;71.177,72;51.084,55;Sim
+124;22222;PE;Moderado;Fundo Ações Beta;Ações;102.768,30;12/09/2022;11,98;37.413,64;12.180,26;Sim
+125;31;PR;Arrojado;Fundo Imobiliário Sigma;Imobiliário;165.583,35;25/08/2024;6,77;60.249,03;5.604,66;Sim
+126;30;RS;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;76.040,74;24/09/2022;8,95;9.660,37;24.650,23;Sim
+127;75;RS;Conservador;Fundo Multimercado Gamma;Multimercado;67.960,63;03/09/2021;9,52;27.906,87;18.836,23;Não
+128;30;RJ;Conservador;Fundo Ações Beta;;127.797,57;23/01/2024;6,79;35.614,54;27.598,31;Sim
+129;24;MG;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;134.845,83;14/02/2025;7,58;41.621,38;24.869,92;Sim
+130;41;SC;Moderado;Fundo Cambial Delta;Cambial;141.276,68;28/12/2024;12,79;49.674,64;34.972,95;Sim
+131;56;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;90.869,66;18/01/2021;10,07;7.195,91;21.452,31;Não
+132;64;SP;Arrojado;Fundo Imobiliário Sigma;Imobiliário;252.557,55;16/05/2022;20,60;120.530,01;40.450,29;Sim
+133;51;SP;Arrojado;Fundo Multimercado Gamma;Multimercado;37.752,48;21/11/2024;11,19;11.395,28;13.879,46;Sim
+134;44;BA;Moderado;Fundo Imobiliário Sigma;Imobiliário;71.579,95;22/04/2024;3,55;16.126,19;14.709,10;Sim
+135;59;RS;Moderado;Fundo Multimercado Gamma;Multimercado;84.607,36;01/11/2022;11,15;26.779,87;21.735,10;Sim
+136;27;SP;Conservador;Fundo Cambial Delta;Cambial;62.362,42;17/12/2024;9,03;18.629,25;19.047,95;Sim
+137;49;PE;Arrojado;Fundo Imobiliário Sigma;Imobiliário;160.911,98;10/01/2024;15,99;40.881,93;18.507,38;Sim
+138;56;BA;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;100.125,64;16/08/2020;11,55;36.633,02;10.922,13;Sim
+139;24;BA;Conservador;Fundo Cambial Delta;Cambial;73.049,47;09/06/2022;9,66;31.316,12;11.361,84;Sim
+140;24;PR;Conservador;Fundo Ações Beta;;28.541,38;02/04/2024;7,23;12.359,67;11.414,60;Sim
+141;32;SC;Arrojado;Fundo Cambial Delta;Cambial;103.572,65;15/10/2022;4,04;12.649,12;36.209,46;Sim
+142;66;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;96.273,77;13/09/2021;5,00;26.293,96;15.020,01;Sim
+143;59;DF;Conservador;Fundo Multimercado Gamma;Multimercado;115.643,27;29/10/2022;9,18;37.200,83;28.241,44;Sim
+144;61;RJ;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;113.841,13;27/05/2022;24,41;27.009,73;17.128,66;Sim
+145;55;RS;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;81.114,50;22/09/2023;10,19;10.606,01;28.629,77;Sim
+146;28;RS;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;64.069,94;27/03/2024;9,32;22.266,35;21.263,78;Sim
+147;54;RS;Moderado;Fundo Multimercado Gamma;Multimercado;154.089,86;09/07/2021;0,72;42.684,75;40.496,97;Sim
+148;37;MG;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;153.621,09;07/02/2022;9,85;39.273,54;31.993,99;Sim
+149;78;MG;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;135.255,42;28/10/2022;11,82;4.099,77;26.316,72;Sim
+150;43;PR;Moderado;Fundo Cambial Delta;Cambial;161.553,05;26/08/2023;7,21;33.814,61;20.668,58;Sim
+151;69;RS;Conservador;Fundo Ações Beta;Ações;59.656,16;01/06/2021;9,03;13.129,66;10.949,68;Sim
+152;59;PR;Arrojado;Fundo Imobiliário Sigma;Imobiliário;304.401,59;04/07/2022;14,47;91.744,49;60.145,95;Sim
+153;78;GO;Arrojado;Fundo Multimercado Gamma;Multimercado;115.970,21;05/12/2024;23,03;60.959,56;16.542,16;Sim
+154;48;SC;Conservador;Fundo Multimercado Gamma;Multimercado;131.398,54;13/12/2023;5,79;57.665,33;0,00;Sim
+155;47;BA;Arrojado;Fundo Renda Fixa Alpha;;116.174,01;22/10/2020;-14,55;30.710,23;26.003,19;Sim
+156;27;SC;Moderado;Fundo Cambial Delta;Cambial;63.699,53;17/01/2021;6,89;12.035,54;23.901,79;Sim
+157;42;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;74.863,66;27/01/2021;10,05;10.312,29;17.525,50;Não
+158;42;PR;Moderado;Fundo Imobiliário Sigma;Imobiliário;123.949,83;16/06/2023;9,48;43.388,36;11.734,84;Sim
+159;66;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;154.478,60;01/08/2025;12,49;46.544,41;31.846,82;Sim
+160;65;RS;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;128.342,03;12/06/2022;23,27;24.628,02;33.573,45;Sim
+161;50;PE;Conservador;Fundo Cambial Delta;Cambial;67.931,27;13/04/2021;7,49;29.639,45;18.816,42;Sim
+162;40;BA;Conservador;Fundo Cambial Delta;Cambial;46.604,42;26/11/2022;11,53;8.195,38;5.516,54;Não
+163;21;MG;Moderado;Fundo Multimercado Gamma;Multimercado;106.826,76;08/02/2022;9,61;26.968,09;32.215,61;Sim
+164;49;SC;Conservador;Fundo Imobiliário Sigma;Imobiliário;98.994,32;23/09/2022;7,28;26.183,68;22.347,70;Sim
+165;49;PR;Moderado;Fundo Imobiliário Sigma;Imobiliário;158.872,91;05/02/2025;9,88;42.328,27;53.159,58;Não
+166;70;RJ;Conservador;Fundo Cambial Delta;Cambial;114.028,58;23/08/2023;8,18;25.151,25;41.287,10;Sim
+167;28;RS;Moderado;Fundo Cambial Delta;Cambial;126.834,62;09/10/2022;9,26;38.284,19;29.775,46;Sim
+168;64;SP;Conservador;Fundo Ações Beta;Ações;102.060,51;22/01/2025;10,30;31.849,48;33.803,38;Sim
+169;61;RS;Conservador;Fundo Imobiliário Sigma;Imobiliário;47.408,14;13/04/2022;9,10;23.730,50;12.883,60;Sim
+170;77;DF;Moderado;Fundo Cambial Delta;;97.545,33;05/10/2024;11,26;25.125,57;13.205,60;Não
+171;50;DF;Conservador;Fundo Cambial Delta;Cambial;85.120,59;25/06/2024;9,97;39.712,79;25.658,50;Sim
+172;26;PR;Conservador;Fundo Ações Beta;Ações;103.723,56;04/05/2025;8,51;45.678,79;15.605,13;Sim
+173;65;DF;Arrojado;Fundo Ações Beta;Ações;129.119,21;08/07/2024;15,59;20.215,36;33.325,95;Sim
+174;40;PE;Conservador;Fundo Imobiliário Sigma;Imobiliário;75.499,88;08/12/2021;10,42;24.390,14;18.363,90;Não
+175;59;DF;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;82.024,04;22/07/2022;20,53;28.653,60;17.920,91;Sim
+176;24;PR;Conservador;Fundo Ações Beta;Ações;44.904,26;23/03/2024;7,75;7.939,26;9.632,98;Sim
+177;71;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;79.893,27;06/02/2025;6,68;10.469,56;23.865,10;Não
+178;45;DF;Conservador;Fundo Ações Beta;Ações;37.612,85;13/11/2022;7,30;7.349,88;825,39;Sim
+179;62;PE;Conservador;Fundo Renda Fixa Alpha;;61.106,19;20/04/2025;12,61;24.355,23;8.588,69;Sim
+180;68;PE;Moderado;Fundo Multimercado Gamma;Multimercado;67.226,08;09/05/2023;9,10;27.324,50;14.249,28;Sim
+181;27;SP;Conservador;Fundo Cambial Delta;Cambial;105.690,66;08/10/2024;9,38;40.560,88;35.596,46;Sim
+182;27;RJ;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;117.193,37;12/11/2023;3,36;40.192,85;25.872,64;Sim
+183;42;SP;Conservador;Fundo Imobiliário Sigma;Imobiliário;54.980,07;18/09/2021;13,21;12.464,31;9.008,70;Não
+184;26;RJ;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;176.798,38;23/04/2022;12,29;73.001,28;33.937,94;Sim
+185;58;BA;Moderado;Fundo Imobiliário Sigma;Imobiliário;174.265,34;13/01/2021;-0,85;-9.999.999.999,00;57.462,36;Sim
+186;43;DF;Conservador;Fundo Cambial Delta;Cambial;71.310,08;29/10/2024;7,38;22.977,06;10.848,06;Sim
+187;59;GO;Arrojado;Fundo Multimercado Gamma;Multimercado;25.198,95;02/06/2021;3,73;10.920,87;5.840,65;Sim
+188;23;SP;Moderado;Fundo Renda Fixa Alpha;;93.976,61;02/11/2020;14,17;36.347,94;21.455,16;Não
+189;61;RS;Moderado;Fundo Multimercado Gamma;Multimercado;111.275,84;18/04/2024;13,98;36.233,21;22.033,93;Sim
+190;78;MG;Conservador;Fundo Imobiliário Sigma;Imobiliário;81.645,68;23/08/2024;10,13;20.270,27;27.835,85;Sim
+191;72;SP;Moderado;Fundo Imobiliário Sigma;Imobiliário;223.908,19;26/07/2024;7,40;51.998,00;10.719,72;Sim
+192;49;SP;Conservador;Fundo Multimercado Gamma;Multimercado;46.363,59;23/04/2024;4,48;9.863,25;12.952,40;Sim
+193;22;PE;Conservador;Fundo Ações Beta;Ações;42.773,02;29/03/2022;7,40;14.776,21;11.737,08;Não
+194;56;GO;Moderado;Fundo Ações Beta;Ações;118.612,60;30/04/2023;10,94;53.974,67;11.880,78;Sim
+195;31;DF;Conservador;Fundo Ações Beta;Ações;91.261,58;26/04/2023;4,93;34.967,26;20.147,02;Não
+196;53;MG;Conservador;Fundo Ações Beta;Ações;103.342,06;15/10/2022;11,24;14.778,32;21.432,76;Sim
+197;53;GO;Moderado;Fundo Imobiliário Sigma;Imobiliário;103.365,31;10/03/2025;9,58;36.335,73;33.016,76;Não
+198;42;PE;Conservador;Fundo Multimercado Gamma;;108.410,08;04/02/2024;6,86;23.499,45;26.792,64;Sim
+199;51;PR;Moderado;Fundo Cambial Delta;Cambial;209.426,99;14/08/2022;7,34;15.797,76;23.489,93;Sim
+200;78;GO;Conservador;Fundo Cambial Delta;Cambial;90.869,98;15/11/2020;10,17;19.531,99;19.125,73;Sim
+201;43;GO;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;75.290,87;08/12/2020;8,20;26.736,30;15.350,89;Sim
+202;67;GO;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;99.295,55;10/08/2025;10,90;29.625,59;31.659,33;Não
+203;51;PR;Moderado;Fundo Ações Beta;Ações;156.299,79;24/08/2020;10,14;76.039,90;44.084,08;Sim
+204;59;PE;Arrojado;Fundo Ações Beta;;51.636,22;09/04/2021;17,70;16.730,25;11.905,01;Não
+205;59;BA;Moderado;Fundo Cambial Delta;Cambial;94.485,88;16/11/2022;8,10;23.956,83;9.917,89;Não
+206;64;PE;Conservador;Fundo Multimercado Gamma;Multimercado;101.333,49;22/06/2022;10,34;44.405,95;26.840,30;Sim
+207;26;RJ;Arrojado;Fundo Multimercado Gamma;Multimercado;212.412,36;03/11/2023;13,24;68.601,29;39.243,79;Sim
+208;37;PE;Conservador;Fundo Cambial Delta;Cambial;88.365,05;22/11/2024;8,80;24.515,00;17.703,18;Sim
+209;51;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;75.034,74;06/09/2023;6,81;15.073,13;16.165,54;Sim
+210;53;SC;Conservador;Fundo Cambial Delta;Cambial;92.909,68;25/12/2023;12,33;25.013,35;20.618,05;Não
+211;49;SP;Moderado;Fundo Imobiliário Sigma;Imobiliário;118.143,19;07/07/2024;8,68;31.294,47;36.711,68;Sim
+212;34;SP;Conservador;Fundo Multimercado Gamma;Multimercado;83.510,92;08/06/2024;8,82;23.496,86;13.322,78;Sim
+213;36;PE;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;150.076,10;08/11/2020;13,91;34.586,21;29.391,35;Sim
+214;75;DF;Conservador;Fundo Multimercado Gamma;Multimercado;68.821,56;19/06/2024;8,75;31.420,65;13.311,81;Sim
+215;77;PE;Conservador;Fundo Imobiliário Sigma;;93.565,99;03/11/2023;7,90;40.220,84;19.720,72;Sim
+216;30;MG;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;102.437,06;07/08/2022;10,62;28.452,79;8.738,31;Sim
+217;40;RJ;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;43.064,55;27/12/2020;6,87;17.929,86;4.610,78;Sim
+218;53;RJ;Moderado;Fundo Ações Beta;Ações;69.938,42;10/07/2024;15,78;20.406,97;21.801,87;Sim
+219;27;PR;Moderado;Fundo Multimercado Gamma;Multimercado;103.243,20;30/05/2021;8,07;47.765,67;0,00;Sim
+220;26;PE;Arrojado;Fundo Ações Beta;Ações;10.000.000.000,00;15/03/2024;16,59;39.661,14;23.254,24;Sim
+221;44;MG;Conservador;Fundo Imobiliário Sigma;Imobiliário;51.477,49;17/02/2022;9,21;7.789,72;11.924,38;Sim
+222;79;MG;Arrojado;Fundo Multimercado Gamma;Multimercado;157.686,26;07/10/2022;8,55;60.561,67;21.246,27;Sim
+223;30;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;119.256,45;24/05/2022;7,23;39.694,45;22.989,26;Sim
+224;57;SP;Conservador;Fundo Multimercado Gamma;Multimercado;100.470,43;09/10/2023;5,81;33.879,95;24.905,34;Sim
+225;27;GO;Arrojado;Fundo Cambial Delta;Cambial;206.390,89;20/10/2024;20,77;55.243,49;42.260,67;Não
+226;73;PE;Moderado;Fundo Multimercado Gamma;Multimercado;180.135,93;29/05/2025;13,51;50.060,42;36.511,50;Sim
+227;79;DF;Conservador;Fundo Multimercado Gamma;Multimercado;81.250,05;08/10/2022;6,44;20.547,26;24.985,40;Não
+228;58;RS;Moderado;Fundo Ações Beta;Ações;127.816,41;04/08/2023;5,75;50.984,47;33.530,20;Não
+229;53;BA;Conservador;Fundo Cambial Delta;Cambial;82.035,28;18/11/2024;7,45;26.337,98;23.628,59;Sim
+230;28;BA;Conservador;Fundo Ações Beta;;81.192,61;28/10/2021;6,71;30.026,84;19.433,33;Sim
+231;69;SP;Conservador;Fundo Imobiliário Sigma;Imobiliário;105.303,95;08/06/2022;9,12;28.059,16;46.474,78;Sim
+232;30;RJ;Arrojado;Fundo Cambial Delta;Cambial;156.872,00;14/03/2022;21,60;43.956,27;52.038,81;Sim
+233;22;PE;Conservador;Fundo Ações Beta;Ações;113.712,97;23/08/2022;7,08;53.811,43;34.967,68;Sim
+234;44;MG;Conservador;Fundo Multimercado Gamma;Multimercado;73.593,05;19/07/2023;8,85;-9.999.999.999,00;10.496,58;Sim
+235;74;BA;Moderado;Fundo Multimercado Gamma;Multimercado;140.239,64;08/01/2025;2,01;30.244,46;27.857,91;Não
+236;70;DF;Conservador;Fundo Multimercado Gamma;Multimercado;69.954,89;09/07/2021;8,42;28.618,87;13.216,34;Sim
+237;50;PE;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;217.875,17;02/03/2022;11,80;95.526,11;60.078,11;Sim
+238;39;RS;Moderado;Fundo Multimercado Gamma;Multimercado;244.194,70;24/01/2021;11,39;136.592,05;58.905,09;Não
+239;77;RJ;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;115.784,32;18/05/2022;17,12;15.828,27;16.525,10;Sim
+240;70;RJ;Moderado;Fundo Multimercado Gamma;Multimercado;84.471,57;16/09/2020;4,55;19.660,85;0,00;Não
+241;40;SP;Conservador;Fundo Renda Fixa Alpha;;67.488,75;22/07/2022;8,79;23.580,77;15.257,00;Sim
+242;42;SC;Moderado;Fundo Ações Beta;Ações;64.576,60;24/02/2021;15,78;2.519,51;15.359,99;Sim
+243;57;GO;Moderado;Fundo Ações Beta;Ações;53.980,35;03/02/2022;9,80;15.348,07;16.530,95;Sim
+244;75;RJ;Moderado;Fundo Cambial Delta;Cambial;192.467,68;14/06/2023;13,54;62.902,61;24.758,72;Sim
+245;44;RS;Moderado;Fundo Imobiliário Sigma;Imobiliário;68.212,74;20/11/2023;14,64;17.273,50;16.006,15;Sim
+246;64;PE;Moderado;Fundo Cambial Delta;Cambial;89.321,87;27/09/2021;6,96;25.452,98;26.756,80;Sim
+247;35;SP;Arrojado;Fundo Cambial Delta;Cambial;24.290,55;15/02/2025;16,03;6.657,43;7.854,80;Não
+248;39;DF;Conservador;Fundo Cambial Delta;Cambial;91.755,26;02/12/2020;8,23;20.718,16;6.380,15;Não
+249;47;GO;Conservador;Fundo Cambial Delta;Cambial;73.567,30;16/05/2022;12,15;24.879,99;17.877,16;Sim
+250;47;PE;Arrojado;Fundo Ações Beta;Ações;160.434,48;21/11/2023;22,72;39.844,72;32.796,72;Não
+251;33;PE;Conservador;Fundo Cambial Delta;Cambial;80.967,70;10/04/2025;6,62;23.230,31;7.813,75;Sim
+252;72;GO;Conservador;Fundo Multimercado Gamma;;114.315,12;30/12/2020;9,54;28.796,59;0,00;Sim
+253;78;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;98.326,55;10/04/2022;8,69;39.311,05;0,00;Não
+254;69;SP;Arrojado;Fundo Cambial Delta;Cambial;175.672,24;01/01/2025;-2,70;39.830,44;44.013,40;Sim
+255;40;PR;Arrojado;Fundo Ações Beta;Ações;166.594,15;09/07/2021;8,79;67.855,25;30.587,34;Sim
+256;41;SC;Conservador;Fundo Ações Beta;Ações;96.103,85;03/09/2023;5,56;28.334,99;21.110,00;Sim
+257;49;MG;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;216.136,62;14/12/2020;9,77;69.187,47;65.935,81;Sim
+258;31;PE;Conservador;Fundo Multimercado Gamma;Multimercado;83.965,79;20/11/2020;7,48;26.706,54;23.105,20;Sim
+259;50;RJ;Arrojado;Fundo Multimercado Gamma;Multimercado;84.624,41;15/12/2020;27,05;18.857,46;19.435,08;Sim
+260;47;MG;Conservador;Fundo Imobiliário Sigma;Imobiliário;86.848,56;22/01/2024;5,78;33.023,91;13.910,35;Não
+261;44;SC;Moderado;Fundo Multimercado Gamma;Multimercado;132.854,29;23/05/2024;11,69;61.295,13;32.596,26;Sim
+262;23;PR;Arrojado;Fundo Cambial Delta;Cambial;223.391,41;20/11/2024;19,55;64.526,12;61.830,59;Não
+263;53;PR;Moderado;Fundo Multimercado Gamma;Multimercado;148.858,65;07/08/2024;12,54;63.856,74;25.880,57;Sim
+264;43;PE;Arrojado;Fundo Ações Beta;Ações;208.775,58;26/03/2021;3,32;85.791,32;11.231,38;Sim
+265;77;RS;Arrojado;Fundo Cambial Delta;Cambial;245.670,30;01/10/2020;7,22;49.345,52;0,00;Não
+266;68;DF;Conservador;Fundo Cambial Delta;Cambial;36.975,41;18/10/2021;11,54;11.246,77;6.535,78;Sim
+267;27;DF;Conservador;Fundo Multimercado Gamma;;101.793,30;11/08/2021;11,07;7.643,70;13.406,26;Sim
+268;45;PR;Moderado;Fundo Multimercado Gamma;Multimercado;54.773,07;16/03/2024;10,68;3.196,27;8.034,64;Sim
+269;42;RS;Moderado;Fundo Imobiliário Sigma;Imobiliário;143.790,17;08/06/2021;13,41;54.049,70;32.801,29;Não
+270;44;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;56.266,06;02/05/2025;11,06;16.334,68;3.322,45;Sim
+271;38;RJ;Moderado;Fundo Cambial Delta;Cambial;118.652,54;15/04/2023;6,20;25.266,20;12.051,87;Não
+272;46;PR;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;122.311,82;26/05/2025;13,08;26.554,78;26.461,89;Sim
+273;49;SP;Conservador;Fundo Cambial Delta;Cambial;60.207,44;27/09/2023;9,88;12.146,93;10.689,03;Sim
+274;30;RS;Arrojado;Fundo Ações Beta;Ações;117.580,67;04/05/2023;18,11;46.431,90;15.730,97;Sim
+275;61;SC;Moderado;Fundo Imobiliário Sigma;Imobiliário;114.246,17;19/10/2022;13,18;39.723,44;0,00;Sim
+276;66;MG;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;157.337,85;31/12/2020;18,35;47.970,11;32.106,23;Sim
+277;28;GO;Moderado;Fundo Multimercado Gamma;Multimercado;143.171,61;27/05/2022;14,64;36.323,37;13.151,46;Sim
+278;61;SC;Conservador;Fundo Cambial Delta;Cambial;1.000.000.000,00;30/07/2022;9,50;27.913,96;9.677,96;Não
+279;69;SC;Conservador;Fundo Multimercado Gamma;Multimercado;93.853,99;27/08/2020;8,92;37.812,25;24.118,54;Sim
+280;38;SC;Conservador;Fundo Multimercado Gamma;Multimercado;63.293,06;18/05/2022;12,29;11.471,24;14.619,56;Sim
+281;54;RJ;Arrojado;Fundo Cambial Delta;;145.184,46;07/04/2021;22,75;24.509,46;31.131,18;Sim
+282;56;RS;Moderado;Fundo Imobiliário Sigma;Imobiliário;168.983,38;28/06/2025;16,49;-9.999.999.999,00;38.321,23;Não
+283;33;SP;Arrojado;Fundo Ações Beta;Ações;117.174,28;03/08/2022;15,31;30.057,24;15.339,51;Não
+284;26;GO;Conservador;Fundo Imobiliário Sigma;Imobiliário;63.926,51;01/08/2024;11,28;29.902,91;9.246,41;Sim
+285;68;RS;Arrojado;Fundo Ações Beta;Ações;173.397,64;17/08/2021;23,63;63.832,81;29.937,72;Sim
+286;64;MG;Arrojado;Fundo Imobiliário Sigma;Imobiliário;83.953,24;21/02/2024;8,31;20.261,58;15.132,28;Sim
+287;68;MG;Arrojado;Fundo Imobiliário Sigma;Imobiliário;179.603,00;01/02/2023;21,72;57.404,13;25.110,53;Sim
+288;27;MG;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;86.617,60;25/03/2025;9,67;8.716,02;20.563,51;Sim
+289;22;SC;Arrojado;Fundo Ações Beta;Ações;60.024,75;12/10/2024;3,36;17.933,72;12.685,63;Sim
+290;71;SP;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;81.928,67;05/08/2022;6,64;16.461,99;21.542,44;Sim
+291;35;BA;Moderado;Fundo Renda Fixa Alpha;;57.759,73;11/05/2025;2,71;3.837,71;8.668,02;Sim
+292;42;SC;Moderado;Fundo Renda Fixa Alpha;;76.307,49;18/02/2022;8,73;32.149,09;16.342,90;Sim
+293;40;RS;Arrojado;Fundo Renda Fixa Alpha;;135.805,18;08/08/2025;10,83;46.515,70;31.719,45;Sim
+294;72;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;90.074,72;11/11/2021;9,16;17.379,07;10.000,58;Sim
+295;21;PE;Arrojado;Fundo Cambial Delta;Cambial;57.812,90;19/09/2023;4,47;17.690,92;2.249,82;Sim
+296;22;PE;Moderado;Fundo Cambial Delta;Cambial;75.865,34;17/06/2023;1,39;25.707,57;34.086,29;Sim
+297;54;RJ;Conservador;Fundo Ações Beta;Ações;87.306,02;28/11/2024;10,80;8.783,59;28.098,02;Sim
+298;31;PR;Moderado;Fundo Imobiliário Sigma;;102.456,51;24/01/2022;14,67;36.561,00;26.634,53;Sim
+299;71;SC;Conservador;Fundo Imobiliário Sigma;Imobiliário;69.074,80;13/06/2023;9,96;25.642,44;14.645,42;Sim
+300;21;PE;Moderado;Fundo Cambial Delta;Cambial;118.998,92;12/02/2025;13,27;52.243,00;30.437,67;Sim
+301;71;RJ;Arrojado;Fundo Imobiliário Sigma;Imobiliário;1.000,00;08/10/2023;14,51;262,83;100,77;Sim
+302;27;RS;Moderado;Fundo Ações Beta;Ações;158.031,85;11/12/2024;-3,55;45.702,22;30.519,26;Sim
+303;31;PE;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;78.590,02;22/05/2025;8,97;24.083,71;192,81;Sim
+304;37;SC;Moderado;Fundo Multimercado Gamma;Multimercado;149.030,67;31/10/2022;8,16;20.023,27;48.530,89;Não
+305;50;PE;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;66.226,66;17/03/2022;7,87;16.135,14;10.523,87;Sim
+306;28;RJ;Moderado;Fundo Multimercado Gamma;Multimercado;91.634,94;29/07/2024;13,42;32.516,93;9.874,28;Sim
+307;52;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;83.211,48;29/01/2023;8,01;28.599,27;26.549,84;Sim
+308;71;RJ;Moderado;Fundo Cambial Delta;;139.625,45;01/10/2020;5,89;48.458,44;38.119,33;Não
+309;56;SP;Arrojado;Fundo Imobiliário Sigma;Imobiliário;142.289,55;16/07/2024;21,91;35.471,25;11.795,21;Sim
+310;47;RJ;Moderado;Fundo Ações Beta;Ações;67.321,78;19/02/2023;9,70;23.011,98;12.778,91;Sim
+311;74;PE;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;68.469,79;27/12/2024;2,82;16.800,81;16.376,63;Sim
+312;58;DF;Conservador;Fundo Multimercado Gamma;Multimercado;49.345,29;13/09/2024;10,07;16.857,52;15.179,52;Sim
+313;72;BA;Arrojado;Fundo Imobiliário Sigma;Imobiliário;90.353,63;22/05/2024;13,75;9.395,35;36.688,62;Sim
+314;71;DF;Conservador;Fundo Multimercado Gamma;Multimercado;66.261,68;11/03/2025;7,08;24.731,15;5.047,18;Sim
+315;54;PR;Moderado;Fundo Multimercado Gamma;Multimercado;65.123,95;24/04/2024;3,55;29.118,03;11.661,59;Não
+316;32;SC;Conservador;Fundo Ações Beta;Ações;89.300,91;17/06/2025;8,33;29.694,13;16.371,32;Sim
+317;79;BA;Conservador;Fundo Renda Fixa Alpha;;91.764,00;15/01/2024;9,02;5.214,82;17.459,86;Sim
+318;41;DF;Conservador;Fundo Cambial Delta;Cambial;106.034,83;15/02/2024;11,12;32.149,80;13.218,11;Sim
+319;38;MG;Conservador;Fundo Multimercado Gamma;Multimercado;67.913,22;27/10/2023;7,85;27.797,35;17.490,16;Sim
+320;54;GO;Moderado;Fundo Renda Fixa Alpha;;87.900,29;26/12/2021;15,20;17.747,79;5.907,62;Sim
+321;34;GO;Conservador;Fundo Renda Fixa Alpha;;58.466,78;19/08/2022;4,44;24.878,78;12.794,96;Sim
+322;27;BA;Moderado;Fundo Cambial Delta;;159.841,91;06/04/2025;6,97;25.226,08;55.965,99;Sim
+323;69;RS;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;137.319,83;15/09/2021;13,06;40.823,01;35.350,36;Sim
+324;69;RJ;Conservador;Fundo Imobiliário Sigma;Imobiliário;64.379,59;17/03/2022;7,26;12.807,71;12.443,39;Sim
+325;32;PR;Conservador;Fundo Cambial Delta;Cambial;110.569,37;08/11/2020;9,02;39.122,72;33.972,52;Não
+326;30;SP;Conservador;Fundo Multimercado Gamma;Multimercado;63.419,25;03/09/2020;8,40;24.481,13;0,00;Não
+327;77;MG;Arrojado;Fundo Multimercado Gamma;Multimercado;184.766,55;09/06/2023;15,18;46.490,75;30.829,11;Sim
+328;51;SP;Moderado;Fundo Cambial Delta;Cambial;107.169,01;10/07/2025;9,99;40.147,52;17.573,64;Sim
+329;31;BA;Moderado;Fundo Ações Beta;Ações;113.315,13;28/01/2022;11,13;31.176,49;40.876,68;Sim
+330;27;SC;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;87.449,91;30/09/2022;11,20;36.071,33;10.499,29;Sim
+331;44;PE;Arrojado;Fundo Multimercado Gamma;;144.337,69;18/01/2024;13,31;55.031,48;37.208,96;Sim
+332;50;GO;Moderado;Fundo Cambial Delta;Cambial;72.156,11;07/04/2021;9,84;14.620,63;1.640,76;Sim
+333;56;BA;Conservador;Fundo Multimercado Gamma;Multimercado;84.815,06;28/01/2023;13,20;30.240,89;2.029,09;Sim
+334;48;GO;Moderado;Fundo Multimercado Gamma;Multimercado;126.506,80;18/09/2024;6,57;35.692,50;38.173,94;Sim
+335;27;RJ;Conservador;Fundo Imobiliário Sigma;;74.990,64;09/03/2023;7,96;28.709,83;8.048,65;Sim
+336;20;RJ;Conservador;Fundo Multimercado Gamma;Multimercado;62.889,77;11/06/2023;6,76;20.998,05;17.715,24;Sim
+337;44;RS;Conservador;Fundo Ações Beta;Ações;1.000.000.000,00;16/08/2022;8,79;20.458,34;27.721,33;Sim
+338;60;RJ;Moderado;Fundo Ações Beta;Ações;147.462,64;08/12/2023;1,15;61.888,52;30.717,66;Não
+339;77;SC;Conservador;Fundo Ações Beta;Ações;51.002,87;09/07/2023;5,79;12.984,36;6.016,59;Sim
+340;75;MG;Conservador;Fundo Ações Beta;Ações;58.574,92;11/03/2022;8,01;26.732,04;4.391,68;Sim
+341;29;RJ;Conservador;Fundo Cambial Delta;Cambial;84.493,69;21/11/2023;9,87;13.363,81;2.021,01;Sim
+342;59;GO;Arrojado;Fundo Cambial Delta;Cambial;126.361,12;08/05/2021;10,71;19.654,75;4.280,11;Sim
+343;26;GO;Moderado;Fundo Imobiliário Sigma;Imobiliário;208.570,06;26/03/2021;8,82;65.208,37;27.365,70;Sim
+344;74;SC;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;75.116,00;27/08/2020;8,22;41.407,00;12.477,82;Sim
+345;38;PR;Arrojado;Fundo Imobiliário Sigma;Imobiliário;196.701,66;14/02/2021;9,59;42.916,39;39.273,96;Sim
+346;41;DF;Conservador;Fundo Cambial Delta;Cambial;101.351,99;25/06/2021;9,70;31.232,25;33.512,62;Sim
+347;64;SP;Conservador;Fundo Multimercado Gamma;Multimercado;71.364,08;15/07/2024;6,23;15.391,37;13.307,67;Sim
+348;71;RJ;Moderado;Fundo Imobiliário Sigma;Imobiliário;150.924,00;30/09/2023;13,53;32.010,21;22.035,89;Sim
+349;25;GO;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;168.841,35;08/11/2022;12,33;46.828,42;17.568,97;Sim
+350;33;GO;Moderado;Fundo Multimercado Gamma;Multimercado;154.003,76;23/01/2025;13,50;51.686,23;31.550,36;Sim
+351;22;DF;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;69.444,46;29/01/2021;9,54;7.666,91;15.071,52;Sim
+352;72;SC;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;114.995,26;09/08/2023;3,59;18.396,88;0,00;Sim
+353;40;MG;Conservador;Fundo Cambial Delta;Cambial;56.601,66;04/04/2023;2,26;16.824,76;21.351,57;Não
+354;20;DF;Moderado;Fundo Ações Beta;;109.030,87;28/01/2025;6,00;32.123,28;30.669,92;Sim
+355;40;PR;Conservador;Fundo Multimercado Gamma;;900.000.000,00;22/07/2025;6,22;20.288,66;10.757,37;Sim
+356;75;SP;Arrojado;Fundo Multimercado Gamma;;146.008,29;09/04/2022;15,96;60.742,69;25.707,73;Sim
+357;25;RJ;Moderado;Fundo Cambial Delta;;119.145,31;23/09/2022;7,01;6.859,91;34.362,05;Sim
+358;26;GO;Arrojado;Fundo Multimercado Gamma;Multimercado;140.949,86;23/05/2023;12,10;47.236,37;52.009,00;Sim
+359;43;MG;Arrojado;Fundo Multimercado Gamma;Multimercado;192.144,39;14/10/2020;14,77;55.538,39;26.823,12;Não
+360;33;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;95.885,29;10/03/2025;5,49;31.580,38;6.169,43;Sim
+361;38;BA;Moderado;Fundo Multimercado Gamma;Multimercado;132.282,58;24/09/2023;9,47;28.796,36;24.284,71;Sim
+362;41;DF;Conservador;Fundo Cambial Delta;Cambial;100.350,02;11/02/2024;13,33;27.139,25;21.598,49;Sim
+363;41;SP;Conservador;Fundo Ações Beta;Ações;123.474,77;14/10/2023;9,88;43.849,84;19.321,28;Não
+364;29;SC;Arrojado;Fundo Cambial Delta;Cambial;176.193,59;12/03/2022;21,23;11.224,72;17.447,91;Sim
+365;58;MG;Conservador;Fundo Multimercado Gamma;Multimercado;65.784,80;29/05/2024;8,15;28.927,07;13.532,02;Sim
+366;29;RJ;Moderado;Fundo Imobiliário Sigma;Imobiliário;34.674,68;15/02/2022;9,85;10.847,81;10.630,77;Sim
+367;23;DF;Conservador;Fundo Multimercado Gamma;;82.453,41;22/07/2025;11,25;27.399,92;14.409,94;Não
+368;41;GO;Conservador;Fundo Cambial Delta;Cambial;70.050,03;01/03/2022;6,62;21.617,95;18.484,68;Sim
+369;47;MG;Arrojado;Fundo Imobiliário Sigma;Imobiliário;146.337,39;25/04/2021;8,11;45.120,90;42.163,97;Sim
+370;71;MG;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;99.263,88;28/03/2023;14,83;7.901,03;9.554,61;Sim
+371;62;RS;Arrojado;Fundo Imobiliário Sigma;Imobiliário;156.796,22;24/07/2022;2,49;61.452,03;20.883,00;Sim
+372;55;PE;Conservador;Fundo Ações Beta;Ações;61.132,34;18/04/2024;5,75;11.359,83;15.500,58;Sim
+373;65;PE;Arrojado;Fundo Ações Beta;Ações;76.853,12;15/12/2020;14,94;30.607,32;20.414,96;Sim
+374;26;GO;Arrojado;Fundo Cambial Delta;;56.059,69;19/05/2024;24,38;31.077,63;12.236,75;Sim
+375;74;BA;Moderado;Fundo Cambial Delta;Cambial;1.000.000.000,00;27/10/2024;11,69;41.408,97;7.627,12;Não
+376;73;RS;Arrojado;Fundo Ações Beta;Ações;98.439,58;13/02/2023;23,14;29.442,43;22.671,85;Não
+377;72;SP;Moderado;Fundo Multimercado Gamma;Multimercado;165.949,34;18/11/2024;15,73;30.053,24;28.953,98;Sim
+378;46;RJ;Moderado;Fundo Imobiliário Sigma;Imobiliário;95.863,11;09/05/2024;11,11;23.735,74;7.120,60;Não
+379;54;PR;Conservador;Fundo Ações Beta;Ações;86.769,68;10/11/2020;7,41;27.492,63;28.786,69;Sim
+380;38;DF;Conservador;Fundo Cambial Delta;Cambial;85.534,18;19/01/2022;9,46;16.168,99;9.923,46;Sim
+381;41;RS;Arrojado;Fundo Multimercado Gamma;Multimercado;120.098,26;05/09/2021;21,94;42.584,65;13.932,83;Não
+382;75;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;84.872,65;23/08/2023;7,08;32.736,16;15.541,02;Sim
+383;70;BA;Arrojado;Fundo Multimercado Gamma;;246.922,54;25/05/2023;11,42;104.131,15;86.949,23;Sim
+384;41;SC;Arrojado;Fundo Multimercado Gamma;Multimercado;197.742,19;29/12/2021;18,95;49.890,31;52.726,97;Sim
+385;52;MG;Conservador;Fundo Cambial Delta;Cambial;87.448,69;25/09/2023;6,42;36.681,88;7.683,41;Sim
+386;47;MG;Arrojado;Fundo Cambial Delta;Cambial;94.612,04;31/12/2023;18,03;36.594,49;15.345,26;Sim
+387;66;SP;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;89.980,12;19/06/2024;8,58;31.618,18;19.611,90;Sim
+388;31;MG;Moderado;Fundo Imobiliário Sigma;Imobiliário;147.336,74;15/09/2020;7,62;56.861,04;34.567,82;Sim
+389;46;RJ;Arrojado;Fundo Ações Beta;Ações;92.021,26;05/02/2023;15,20;11.917,87;0,00;Sim
+390;55;SP;Conservador;Fundo Imobiliário Sigma;Imobiliário;60.962,99;20/09/2022;7,39;26.260,29;9.892,60;Sim
+391;78;RJ;Arrojado;Fundo Cambial Delta;Cambial;117.880,31;10/10/2024;13,28;39.277,49;25.821,68;Sim
+392;42;SP;Moderado;Fundo Imobiliário Sigma;Imobiliário;135.529,71;23/12/2022;7,21;52.089,68;33.817,55;Sim
+393;64;MG;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;97.773,26;27/11/2024;6,95;35.778,96;15.775,94;Sim
+394;33;RS;Moderado;Fundo Ações Beta;Ações;104.784,96;24/07/2022;8,87;30.179,40;18.666,18;Sim
+395;28;RJ;Moderado;Fundo Multimercado Gamma;Multimercado;119.223,22;09/10/2022;8,79;45.304,13;4.574,47;Sim
+396;54;DF;Moderado;Fundo Imobiliário Sigma;Imobiliário;1.000.000.000,00;10/09/2021;6,46;35.122,36;32.191,76;Sim
+397;47;BA;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;175.698,78;11/03/2025;21,19;68.565,91;38.907,63;Sim
+398;74;SC;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;104.772,64;19/01/2022;8,23;25.584,33;3.225,75;Sim
+399;30;RJ;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;65.324,24;12/02/2023;8,07;21.867,49;20.665,38;Sim
+400;52;SC;Conservador;Fundo Multimercado Gamma;Multimercado;83.631,74;16/07/2025;11,42;15.719,23;15.806,92;Sim
+401;38;MG;Arrojado;Fundo Cambial Delta;Cambial;141.753,09;01/10/2023;21,62;65.380,47;46.989,94;Não
+402;39;PE;Moderado;Fundo Ações Beta;Ações;143.196,36;07/12/2020;14,80;31.338,67;34.205,60;Sim
+403;23;PE;Conservador;Fundo Ações Beta;Ações;74.868,24;27/12/2020;3,19;25.636,64;16.046,80;Sim
+404;53;RS;Arrojado;Fundo Multimercado Gamma;Multimercado;171.192,44;11/01/2025;13,84;40.682,08;7.724,84;Não
+405;41;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;65.150,59;27/02/2023;5,36;15.559,47;12.788,82;Sim
+406;27;SP;Arrojado;Fundo Ações Beta;Ações;138.890,09;14/09/2020;1,26;22.014,74;0,00;Sim
+407;54;SP;Arrojado;Fundo Multimercado Gamma;Multimercado;177.122,00;05/09/2021;4,08;37.296,00;23.567,67;Sim
+408;32;SC;Moderado;Fundo Cambial Delta;Cambial;166.360,61;23/03/2021;10,48;41.840,24;46.172,48;Sim
+409;58;BA;Conservador;Fundo Ações Beta;Ações;86.383,49;04/10/2022;10,68;9.716,65;18.270,33;Sim
+410;60;PE;Conservador;Fundo Imobiliário Sigma;Imobiliário;64.416,97;03/02/2022;7,61;13.616,33;14.614,03;Sim
+411;70;RJ;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;127.815,01;19/11/2024;13,97;37.525,59;18.018,40;Sim
+412;65;MG;Moderado;Fundo Multimercado Gamma;Multimercado;105.217,25;17/03/2023;5,51;37.659,13;24.707,87;Sim
+413;1000;SC;Moderado;Fundo Multimercado Gamma;Multimercado;153.659,71;16/10/2020;5,34;62.262,15;15.689,34;Sim
+414;47;BA;Conservador;Fundo Cambial Delta;Cambial;70.338,78;26/03/2022;8,29;32.441,80;20.376,01;Sim
+415;21;SP;Moderado;Fundo Multimercado Gamma;Multimercado;163.054,88;03/05/2024;12,37;37.987,71;36.971,18;Sim
+416;66;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;110.427,97;23/05/2023;7,02;38.781,46;20.227,00;Sim
+417;48;BA;Conservador;Fundo Ações Beta;Ações;58.192,02;12/09/2024;10,82;16.883,90;11.748,09;Não
+418;37;MG;Arrojado;Fundo Cambial Delta;Cambial;131.924,69;11/11/2020;11,46;57.142,90;36.435,01;Sim
+419;48;RJ;Conservador;Fundo Multimercado Gamma;Multimercado;81.167,02;19/10/2024;6,51;10.575,27;10.993,51;Sim
+420;20;GO;Conservador;Fundo Ações Beta;Ações;76.277,55;08/05/2025;6,46;21.551,17;3.928,12;Sim
+421;43;SC;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;99.389,14;02/04/2024;8,85;23.393,94;37.522,49;Sim
+422;54;DF;Conservador;Fundo Multimercado Gamma;Multimercado;81.621,26;27/06/2024;6,39;26.627,81;24.904,23;Sim
+423;63;RS;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;181.684,10;26/09/2021;17,91;21.451,30;23.742,72;Sim
+424;67;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;116.869,17;27/04/2024;8,62;51.388,30;59.453,16;Sim
+425;47;PR;Moderado;Fundo Ações Beta;Ações;75.771,81;05/06/2024;9,14;20.397,51;21.061,99;Não
+426;39;PR;Moderado;Fundo Cambial Delta;Cambial;129.106,13;06/11/2020;1,54;55.175,32;19.388,28;Sim
+427;30;MG;Arrojado;Fundo Cambial Delta;Cambial;216.618,14;08/07/2021;4,53;29.700,73;70.888,01;Sim
+428;71;PE;Arrojado;Fundo Multimercado Gamma;Multimercado;240.878,21;13/07/2025;30,29;72.936,75;58.248,86;Sim
+429;64;RJ;Moderado;Fundo Multimercado Gamma;Multimercado;102.544,56;05/02/2021;9,56;29.857,25;16.714,65;Não
+430;61;MG;Moderado;Fundo Ações Beta;Ações;55.705,61;25/09/2023;6,40;16.485,68;4.575,31;Sim
+431;61;DF;Conservador;Fundo Ações Beta;Ações;78.131,32;21/07/2021;8,46;25.311,24;22.688,73;Sim
+432;79;RS;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;98.277,01;06/04/2022;14,76;18.915,72;22.896,97;Sim
+433;180;GO;Conservador;Fundo Imobiliário Sigma;Imobiliário;48.582,48;16/01/2024;5,75;8.774,36;10.410,95;Sim
+434;68;RJ;Conservador;Fundo Cambial Delta;Cambial;54.639,29;28/04/2021;8,25;19.978,75;8.246,31;Não
+435;22;PE;Moderado;Fundo Cambial Delta;Cambial;77.463,92;17/09/2023;6,51;13.467,45;8.791,85;Sim
+436;63;RJ;Conservador;Fundo Multimercado Gamma;Multimercado;83.416,64;11/06/2021;10,52;27.471,29;6.815,01;Sim
+437;54;PE;Moderado;Fundo Imobiliário Sigma;Imobiliário;132.976,00;21/05/2023;8,57;48.284,34;17.897,51;Sim
+438;54;DF;Moderado;Fundo Ações Beta;Ações;131.674,47;13/02/2025;13,60;65.319,64;41.179,32;Sim
+439;56;MG;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;92.245,27;11/02/2022;11,82;31.871,30;25.466,82;Sim
+440;73;DF;Conservador;Fundo Ações Beta;Ações;85.074,79;27/10/2024;8,94;34.759,74;17.848,55;Sim
+441;40;RS;Conservador;Fundo Imobiliário Sigma;Imobiliário;86.535,98;22/06/2025;11,26;27.357,12;13.890,78;Não
+442;60;RJ;Conservador;Fundo Imobiliário Sigma;Imobiliário;77.507,64;18/08/2024;5,65;23.147,88;18.528,38;Sim
+443;51;PR;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;43.007,53;20/07/2025;9,69;26.899,69;3.249,40;Sim
+444;43;MG;Moderado;Fundo Imobiliário Sigma;Imobiliário;203.293,95;01/09/2020;5,37;56.478,58;54.368,96;Sim
+445;36;GO;Moderado;Fundo Imobiliário Sigma;Imobiliário;167.758,25;07/12/2024;8,65;57.284,38;58.579,83;Sim
+446;64;GO;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;83.261,22;22/01/2024;7,98;13.449,63;24.671,04;Sim
+447;27;GO;Conservador;Fundo Ações Beta;Ações;91.871,13;26/04/2024;2,12;33.587,17;20.163,29;Sim
+448;180;BA;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;209.589,72;08/07/2023;11,84;85.607,49;52.186,59;Sim
+449;60;DF;Conservador;Fundo Multimercado Gamma;Multimercado;62.113,00;10/03/2024;6,63;15.307,04;17.743,31;Sim
+450;26;BA;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;77.525,43;13/08/2024;7,29;18.499,14;16.972,55;Sim
+451;32;MG;Moderado;Fundo Cambial Delta;Cambial;152.016,38;05/09/2024;13,02;63.678,34;41.170,65;Sim
+452;55;SC;Moderado;Fundo Multimercado Gamma;Multimercado;95.230,54;24/10/2020;11,25;43.230,92;12.416,61;Não
+453;33;SC;Moderado;Fundo Multimercado Gamma;Multimercado;54.389,33;25/03/2022;3,47;15.277,70;7.894,94;Não
+454;22;MG;Arrojado;Fundo Imobiliário Sigma;Imobiliário;215.805,21;08/11/2023;29,04;49.291,70;50.415,55;Sim
+455;53;SC;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;93.184,91;12/09/2023;9,88;12.975,44;11.529,54;Sim
+456;79;RS;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;74.417,83;06/04/2022;10,06;16.454,22;11.379,76;Sim
+457;74;BA;Arrojado;Fundo Cambial Delta;Cambial;133.296,53;13/02/2023;19,07;19.450,72;24.892,90;Sim
+458;60;MG;Arrojado;Fundo Imobiliário Sigma;Imobiliário;125.612,27;04/02/2025;2,94;28.869,37;32.453,04;Sim
+459;74;RS;Arrojado;Fundo Cambial Delta;Cambial;1.000,00;30/06/2025;15,47;480,05;323,89;Não
+460;71;PE;Moderado;Fundo Multimercado Gamma;Multimercado;137.012,10;04/08/2025;18,87;19.662,42;24.426,61;Sim
+461;72;RJ;Arrojado;Fundo Imobiliário Sigma;Imobiliário;164.194,91;08/01/2021;24,96;30.283,69;33.910,65;Sim
+462;42;RS;Conservador;Fundo Multimercado Gamma;Multimercado;66.090,62;28/11/2024;11,11;23.503,26;18.586,27;Sim
+463;180;PR;Moderado;Fundo Cambial Delta;Cambial;87.103,20;27/08/2021;14,48;26.132,76;17.339,63;Sim
+464;45;SP;Arrojado;Fundo Cambial Delta;Cambial;191.632,71;16/04/2021;26,77;61.125,31;55.604,36;Sim
+465;27;PR;Moderado;Fundo Cambial Delta;Cambial;85.662,00;10/05/2024;14,50;23.360,24;10.471,85;Sim
+466;38;BA;Conservador;Fundo Imobiliário Sigma;Imobiliário;101.392,17;16/08/2020;8,38;39.122,30;21.813,49;Sim
+467;70;DF;Conservador;Fundo Cambial Delta;Cambial;97.017,96;22/06/2023;7,73;32.893,60;18.402,16;Sim
+468;56;DF;Conservador;Fundo Imobiliário Sigma;Imobiliário;94.761,61;20/07/2025;8,22;32.801,85;27.513,85;Sim
+469;66;RJ;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;90.444,87;27/05/2024;6,37;28.865,54;18.707,35;Sim
+470;63;SC;Moderado;Fundo Multimercado Gamma;Multimercado;135.290,20;03/04/2025;6,78;70.907,41;21.507,33;Sim
+471;56;RS;Moderado;Fundo Cambial Delta;Cambial;114.422,15;02/02/2022;8,20;34.332,69;29.763,57;Sim
+472;60;SP;Conservador;Fundo Multimercado Gamma;Multimercado;60.075,36;25/02/2022;7,88;25.656,38;15.804,72;Sim
+473;60;DF;Moderado;Fundo Imobiliário Sigma;Imobiliário;169.404,87;17/12/2020;8,72;44.101,81;42.055,17;Não
+474;28;MG;Conservador;Fundo Imobiliário Sigma;Imobiliário;87.849,30;28/09/2024;9,26;36.452,39;22.604,78;Sim
+475;42;BA;Arrojado;Fundo Multimercado Gamma;Multimercado;56.774,47;02/09/2021;20,54;19.169,39;6.233,54;Sim
+476;37;DF;Arrojado;Fundo Imobiliário Sigma;Imobiliário;158.297,92;18/03/2024;11,28;86.544,70;15.950,76;Sim
+477;40;GO;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;62.430,34;20/07/2023;5,17;7.842,20;13.229,10;Sim
+478;72;RJ;Arrojado;Fundo Imobiliário Sigma;Imobiliário;85.057,96;17/10/2023;20,31;27.018,55;17.711,87;Sim
+479;54;SP;Moderado;Fundo Multimercado Gamma;Multimercado;17.506,65;14/06/2024;9,24;9.475,68;4.874,91;Não
+480;43;GO;Moderado;Fundo Renda Fixa Alpha;Renda Fixa;144.681,21;12/10/2024;11,47;41.825,77;21.867,15;Sim
+481;20;MG;Moderado;Fundo Imobiliário Sigma;Imobiliário;162.144,50;01/03/2025;7,11;50.601,36;57.521,90;Sim
+482;77;BA;Conservador;Fundo Ações Beta;Ações;84.632,96;19/11/2024;10,20;23.767,42;11.073,23;Sim
+483;60;RJ;Conservador;Fundo Cambial Delta;Cambial;72.919,19;19/09/2024;6,85;22.618,48;25.879,17;Sim
+484;71;MG;Moderado;Fundo Ações Beta;Ações;158.228,32;21/10/2024;17,68;77.252,79;44.087,36;Sim
+485;32;GO;Arrojado;Fundo Renda Fixa Alpha;Renda Fixa;190.213,19;17/02/2023;19,42;13.819,06;20.233,19;Sim
+486;1000;DF;Conservador;Fundo Multimercado Gamma;Multimercado;85.957,90;27/02/2021;9,13;27.077,90;22.656,18;Não
+487;32;PE;Moderado;Fundo Multimercado Gamma;Multimercado;112.965,82;20/12/2024;16,65;34.125,69;25.199,30;Não
+488;34;PE;Arrojado;Fundo Multimercado Gamma;Multimercado;238.219,25;30/11/2021;16,60;87.247,35;27.008,66;Sim
+489;26;PR;Moderado;Fundo Ações Beta;Ações;133.552,58;21/07/2024;6,02;45.317,99;45.581,43;Não
+490;30;PR;Moderado;Fundo Ações Beta;Ações;120.855,29;27/09/2023;11,51;49.826,99;30.425,85;Não
+491;66;PR;Arrojado;Fundo Ações Beta;Ações;135.958,81;23/04/2022;17,73;54.211,33;26.159,14;Sim
+492;60;PE;Conservador;Fundo Multimercado Gamma;Multimercado;102.290,33;02/07/2023;10,23;30.637,75;28.365,25;Sim
+493;60;PR;Conservador;Fundo Imobiliário Sigma;Imobiliário;58.218,40;23/02/2023;7,69;17.685,95;15.046,97;Sim
+494;34;BA;Arrojado;Fundo Cambial Delta;Cambial;177.337,12;20/02/2022;12,82;55.110,97;42.769,92;Sim
+495;41;MG;Conservador;Fundo Multimercado Gamma;Multimercado;85.634,70;30/05/2024;11,14;24.233,08;5.873,96;Não
+496;22;RJ;Conservador;Fundo Cambial Delta;Cambial;75.985,02;02/10/2021;5,54;26.198,58;18.016,76;Sim
+497;47;PE;Conservador;Fundo Imobiliário Sigma;Imobiliário;64.766,24;09/02/2025;8,62;19.239,23;27.709,15;Sim
+498;75;DF;Moderado;Fundo Ações Beta;Ações;56.075,03;02/03/2023;11,85;28.173,83;3.571,00;Sim
+499;180;GO;Conservador;Fundo Renda Fixa Alpha;Renda Fixa;1.000.000.000,00;11/03/2022;10,63;13.748,53;22.771,89;Sim
+500;35;DF;Conservador;Fundo Ações Beta;Ações;78.302,20;04/09/2020;5,51;15.961,99;22.166,20;Sim
