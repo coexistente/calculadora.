@@ -226,18 +226,16 @@ plt.show()
 print("\nClasses de ativo mais comuns:")
 print(classe_counts)
 
-# === RESUMO E RECOMENDAÇÃO ===
 
-# Perfil predominante
 perfil_top = df['Perfil'].value_counts().idxmax()
 
-# Classe de ativo predominante
+
 classe_top = df['Classe_Ativo'].value_counts().idxmax()
 
-# Estado com maior patrimônio total
+
 estado_top = df.groupby('Estado')['Posicao_Atual'].sum().idxmax()
 
-# Rentabilidade média
+
 rent_media = df['Rentabilidade_12M'].mean()
 
 print("\n===== RESUMO DA ANÁLISE =====")
@@ -246,9 +244,10 @@ print(f"Classe de ativo predominante: {classe_top}")
 print(f"Estado com maior patrimônio total: {estado_top}")
 print(f"Rentabilidade média dos clientes: {rent_media:.2f}% ao ano")
 
-# Recomendação simples
+
 print("\n===== RECOMENDAÇÃO =====")
 if rent_media < 5:
     print("A rentabilidade média está baixa. Considere revisar a alocação de ativos e buscar fundos com melhor desempenho.")
 else:
     print("A rentabilidade média está positiva. Avalie manter a alocação atual e monitorar oportunidades de diversificação.")
+
