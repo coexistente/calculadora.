@@ -191,4 +191,5 @@ print("\n===== RECOMENDAÇÃO =====")
 if rent_media < 8:
     print("A rentabilidade média tá baixa. E bom revisar a alocação de ativos e buscar fundos com melhor desempenho.")
 else:
-    print("A rentabilidade média tá positiva. E interessante manter a alocação atual e monitorar oportunidades de diversificação.")
+    print("A rentabilidade média tá positiva. E interessante manter a alocação atual e analisar novas oportunidades de diversificação.")
+
