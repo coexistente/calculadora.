@@ -244,4 +244,5 @@ for perfil in porcentagem.index:
         )
 print("\n=== Recomendações de Carteira por Perfil ===")
 for perfil, texto in recomendacoes.items():
-    print(f"\n🔹 {perfil}: {texto}")
+    print(f"\n {perfil}: {texto}")
+
