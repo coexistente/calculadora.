@@ -216,8 +216,11 @@ if rent_media < 9:
 else:
     print("A rentabilidade média de todos os perfis juntos está positiva. E interessante manter a alocação atual, verificar o clientes que estao com a rentabilidade ao ano abaixo dos 8% e fazer novas alocaçoes, e analisar novas oportunidades de diversificação.")
 
-for perfil in porcentagem.index:
-    dist = porcentagem.loc[perfil].sort_values(ascending=False)
+recomendacoes = {}
+
+
+for perfil in porcent.index:  
+    dist = porcent.loc[perfil].sort_values(ascending=False)
     maior_classe = dist.index[0]
     menor_classe = dist.index[-1]
 
@@ -242,7 +245,9 @@ for perfil in porcentagem.index:
             f"complementar com Multimercado (≈30%) e "
             f"manter uma reserva mínima em Renda Fixa (≈20%)."
         )
+
 print("\n=== Recomendações de Carteira por Perfil ===")
 for perfil, texto in recomendacoes.items():
     print(f"\n {perfil}: {texto}")
+
 
