@@ -119,7 +119,7 @@ todas_classes = sorted(df['Classe_Ativo'].dropna().unique())
 contagem = contagem.reindex(columns=todas_classes, fill_value=0)
 porcent = contagem.div(contagem.sum(axis=1).replace(0, 1), axis=0) * 100
 ax = porcent.plot(kind='bar', stacked=True, figsize=(10, 6))
-plt.title("Porcentagem de Classes de Ativo por Perfil (clientes únicos)")
+plt.title("Porcentagem de Classes de Ativo por Perfil")
 plt.ylabel("Porcentagem (%)")
 plt.xlabel("Perfil")
 plt.xticks(rotation=0)
@@ -249,5 +249,6 @@ for perfil in porcent.index:
 print("\n=== Recomendações de Carteira por Perfil ===")
 for perfil, texto in recomendacoes.items():
     print(f"\n {perfil}: {texto}")
+
 
 
